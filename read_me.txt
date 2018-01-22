@@ -1,5 +1,5 @@
 Student:        Francisco McGee
-Github:         https://github.com/alagauche/Francisco_homework_TechField.git
+Github:         https://github.com/alagauche/Francisco_stringsRearrangement
 Assignment:     Strings Rearrangement from CodeFights
 
 PROBLEM:        Strings Rearrangement
